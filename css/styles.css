@@ -1134,6 +1134,7 @@ Products Page
 }
 
 .team-item img {
-  width: 10px;
+  width: 80px;
+  border-radius: 5px;
 }
 
